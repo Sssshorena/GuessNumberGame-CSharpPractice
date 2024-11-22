@@ -1,4 +1,4 @@
-﻿//status of game
+﻿// Game status
 bool playAgain = true;
 
 while (playAgain)
